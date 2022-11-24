@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-[1. Description](https://github.com/xariskaliakatsos/Examining-the-Debates-of-the-Greek-Parliament-1989-through-2020-#-1. description)
+[1. Description](https://github.com/xariskaliakatsos/Examining-the-Debates-of-the-Greek-Parliament-1989-through-2020-#1-description)
  
 [2. Dataset](https://github.com/xariskaliakatsos/Examining-the-Debates-of-the-Greek-Parliament-1989-through-2020-#-dataset)
 
