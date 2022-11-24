@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
-[1. Description](https://github.com/xariskaliakatsos/Examining-the-Debates-of-the-Greek-Parliament-1989-through-2020-#1-description)
+[1. Description](https://github.com/xariskaliakatsos/Examining-the-Debates-of-the-Greek-Parliament-1989-through-2020-#-description)
  
 [2. Dataset](https://github.com/xariskaliakatsos/Examining-the-Debates-of-the-Greek-Parliament-1989-through-2020-#-dataset)
 
 [3. Installation](https://github.com/xariskaliakatsos/Examining-the-Debates-of-the-Greek-Parliament-1989-through-2020-#-installation)
 
-[4. Data Preprocessing](https://github.com/xariskaliakatsos/Examining-the-Debates-of-the-Greek-Parliament-1989-through-2020-#4-data-preprocessing)
+[4. Data Preprocessing](https://github.com/xariskaliakatsos/Examining-the-Debates-of-the-Greek-Parliament-1989-through-2020-#-data-preprocessing)
 
 [5. Different Topics Across The Years](https://github.com/xariskaliakatsos/Examining-the-Debates-of-the-Greek-Parliament-1989-through-2020-#5-different-topics-across-the-years)
 
