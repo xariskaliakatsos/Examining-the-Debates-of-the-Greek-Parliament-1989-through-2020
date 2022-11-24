@@ -24,7 +24,7 @@
 
 ## Description
 
-Examining the Debates of the Greek Parliament 1989 through 2020 is a project that was created as a semester Project in the context of “Technologies for Big Data Analytics” class. MSc Data and Web Science, School of Informatics, Aristotle University of Thessaloniki. The project team conisted of me, Marios Kadriour and Zoi Chatzichristodoulou.
+Examining the Debates of the Greek Parliament 1989 through 2020 is a project that was created as a semester Project in the context of “Technologies for Big Data Analytics” class. MSc Data and Web Science, School of Informatics, Aristotle University of Thessaloniki. The project team conisted of me, Marios Kadriou and Zoi Chatzichristodoulou.
 
 My team and I focused on the following tasks:
 * Identification of different topics by year
