@@ -2,25 +2,25 @@
 
 ## Table of Contents
 
-[1. Description](https://github.com/xariskaliakatsos/Examining-the-Debates-of-the-Greek-Parliament-1989-through-2020-#1-description)
+[Description](https://github.com/MariosKadriu/Analysis-of-the-Greek-Parliament-Proceedings-1989-2020#-description)
  
-[2. Dataset](https://github.com/xariskaliakatsos/Examining-the-Debates-of-the-Greek-Parliament-1989-through-2020-#-dataset)
+[Dataset](https://github.com/MariosKadriu/Analysis-of-the-Greek-Parliament-Proceedings-1989-2020#-dataset)
 
-[3. Installation](https://github.com/xariskaliakatsos/Examining-the-Debates-of-the-Greek-Parliament-1989-through-2020-#-installation)
+[Installation](https://github.com/MariosKadriu/Analysis-of-the-Greek-Parliament-Proceedings-1989-2020#%EF%B8%8F-installation)
 
-[4. Data Preprocessing](https://github.com/xariskaliakatsos/Examining-the-Debates-of-the-Greek-Parliament-1989-through-2020-#-data-preprocessing)
+[Data Preprocessing](https://github.com/MariosKadriu/Analysis-of-the-Greek-Parliament-Proceedings-1989-2020#-data-preprocessing)
 
-[5. Different Topics Across The Years](https://github.com/xariskaliakatsos/Examining-the-Debates-of-the-Greek-Parliament-1989-through-2020-#5-different-topics-across-the-years)
+[Different Topics Across The Years](https://github.com/MariosKadriu/Analysis-of-the-Greek-Parliament-Proceedings-1989-2020#-different-topics-across-the-years)
 
-[6. Pairwise Similarities Between Parliament Members](https://github.com/xariskaliakatsos/Examining-the-Debates-of-the-Greek-Parliament-1989-through-2020-#6-pairwise-similarities-between-parliament-members)
+[Pairwise Similarities Between Parliament Members](https://github.com/MariosKadriu/Analysis-of-the-Greek-Parliament-Proceedings-1989-2020#-pairwise-similarities-between-parliament-members)
 
-[7. Most Important Keywords Across Years](https://github.com/xariskaliakatsos/Examining-the-Debates-of-the-Greek-Parliament-1989-through-2020-#7-most-important-keywords-across-years)
+[Most Important Keywords Across Years](https://github.com/MariosKadriu/Analysis-of-the-Greek-Parliament-Proceedings-1989-2020#-most-important-keywords-across-years)
 
-[8. Deviation from parliamentary speeches due to economic crisis](https://github.com/xariskaliakatsos/Examining-the-Debates-of-the-Greek-Parliament-1989-through-2020-#8-deviation-from-parliamentary-speeches-due-to-economic-crisis)
+[Deviation from parliamentary speeches due to economic crisis](https://github.com/MariosKadriu/Analysis-of-the-Greek-Parliament-Proceedings-1989-2020#-deviation-from-parliamentary-speeches-due-to-economic-crisis)
 
-[9. Clustering of Members of Parliament based on their speeches](https://github.com/xariskaliakatsos/Examining-the-Debates-of-the-Greek-Parliament-1989-through-2020-#9-clustering-of-members-of-parliament-based-on-their-speeches)
+[Clustering of Members of Parliament based on their speeches](https://github.com/MariosKadriu/Analysis-of-the-Greek-Parliament-Proceedings-1989-2020#-clustering-of-members-of-parliament-based-on-their-speeches)
 
-[10. Gender Relevance Issues](https://github.com/xariskaliakatsos/Examining-the-Debates-of-the-Greek-Parliament-1989-through-2020-#10-gender-relevance-issues)
+[Gender Relevance Issues](https://github.com/MariosKadriu/Analysis-of-the-Greek-Parliament-Proceedings-1989-2020#-gender-relevance-issues)
 
 ## Description
 
